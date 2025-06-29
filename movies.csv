@@ -1,0 +1,201 @@
+title,genre,year,director,rating
+Interstellar 5,Drama,1999,James Cameron,7.3
+Avatar 4,Thriller,2014,Ridley Scott,3.8
+Avengers 1,Horror,2016,Ridley Scott,6.3
+Avengers 4,Adventure,1996,Bong Joon-ho,8.9
+The Matrix 5,Fantasy,1992,Steven Spielberg,6.6
+Inception 1,Crime,1993,Ridley Scott,3.9
+Inception 1,Comedy,1991,Quentin Tarantino,1.2
+Avengers 1,Comedy,1996,Francis Ford Coppola,7.1
+Inception 2,Fantasy,2022,Steven Spielberg,3.0
+Interstellar 2,Romance,2001,Francis Ford Coppola,2.5
+Gladiator 2,Sci-Fi,2010,Francis Ford Coppola,7.4
+Inception 4,Action,2010,Christopher Nolan,1.6
+Joker 2,Crime,1998,Francis Ford Coppola,2.8
+Interstellar 5,Thriller,1998,Francis Ford Coppola,1.9
+Titanic 4,Romance,1985,Christopher Nolan,6.0
+Parasite 3,Comedy,2014,Martin Scorsese,1.4
+Parasite 1,Adventure,1985,Francis Ford Coppola,7.7
+Joker 3,Drama,1990,Bong Joon-ho,9.4
+The Matrix 5,Crime,2014,James Cameron,4.2
+Avengers 1,Adventure,2023,Quentin Tarantino,4.6
+Interstellar 4,Fantasy,1981,Steven Spielberg,1.5
+Gladiator 1,Action,2009,Martin Scorsese,6.1
+Joker 5,Action,1991,Quentin Tarantino,6.9
+Titanic 1,Action,1994,Quentin Tarantino,1.6
+Gladiator 5,Action,2005,Ridley Scott,5.9
+Avengers 3,Action,2023,Quentin Tarantino,8.7
+Parasite 1,Adventure,1990,Martin Scorsese,3.2
+Avengers 3,Sci-Fi,2009,James Cameron,7.5
+Titanic 1,Action,2021,Bong Joon-ho,5.0
+Interstellar 1,Crime,1998,Ridley Scott,4.8
+Avengers 3,Romance,1982,James Cameron,4.6
+Avatar 1,Drama,2003,James Cameron,7.5
+The Matrix 5,Romance,1987,Quentin Tarantino,5.0
+Joker 5,Thriller,1993,James Cameron,1.8
+Parasite 2,Fantasy,2017,Steven Spielberg,6.0
+Avengers 2,Crime,2009,Francis Ford Coppola,8.2
+Avatar 3,Action,1999,Ridley Scott,7.0
+Avengers 4,Adventure,1988,Martin Scorsese,3.1
+Avengers 4,Action,2017,Francis Ford Coppola,6.5
+Gladiator 2,Crime,1986,Martin Scorsese,7.3
+The Godfather 1,Action,2023,Martin Scorsese,5.0
+Joker 5,Adventure,2013,Steven Spielberg,1.6
+Parasite 1,Drama,2005,Francis Ford Coppola,6.6
+Parasite 1,Drama,1982,Steven Spielberg,5.3
+Parasite 5,Comedy,1995,Martin Scorsese,5.5
+Joker 3,Drama,1985,Bong Joon-ho,8.1
+Avengers 1,Fantasy,2022,Quentin Tarantino,1.8
+Avengers 3,Sci-Fi,1993,James Cameron,7.1
+Interstellar 2,Drama,1995,Steven Spielberg,7.1
+Parasite 5,Fantasy,2005,Francis Ford Coppola,3.3
+The Godfather 5,Romance,2001,Christopher Nolan,9.2
+Inception 2,Adventure,1995,Francis Ford Coppola,5.6
+Avatar 2,Action,1986,Quentin Tarantino,5.8
+Titanic 3,Sci-Fi,2017,Steven Spielberg,9.9
+The Matrix 3,Adventure,1986,Christopher Nolan,9.8
+Interstellar 2,Comedy,2009,James Cameron,9.5
+The Matrix 2,Horror,2017,Christopher Nolan,8.2
+Parasite 4,Horror,2008,Bong Joon-ho,1.8
+Avengers 5,Horror,1986,Martin Scorsese,2.2
+The Matrix 5,Sci-Fi,2016,Ridley Scott,1.4
+Gladiator 2,Comedy,1982,Francis Ford Coppola,2.4
+Titanic 3,Horror,2004,Christopher Nolan,2.9
+Interstellar 2,Comedy,1992,Martin Scorsese,7.4
+The Godfather 5,Romance,1993,Christopher Nolan,4.7
+Parasite 5,Fantasy,2008,Ridley Scott,7.8
+Parasite 3,Thriller,1994,Christopher Nolan,3.2
+Interstellar 3,Horror,1981,Francis Ford Coppola,9.3
+Joker 5,Sci-Fi,2012,Bong Joon-ho,8.9
+Titanic 4,Sci-Fi,2019,Christopher Nolan,6.2
+Joker 4,Sci-Fi,1980,Quentin Tarantino,9.2
+Avengers 1,Action,2005,Quentin Tarantino,3.1
+Parasite 4,Fantasy,1990,Bong Joon-ho,8.2
+The Godfather 2,Horror,2004,Francis Ford Coppola,6.3
+Joker 1,Horror,1998,Bong Joon-ho,1.5
+Avengers 3,Thriller,1985,Bong Joon-ho,3.2
+Parasite 5,Thriller,2013,Martin Scorsese,8.2
+Inception 1,Comedy,1995,Martin Scorsese,4.4
+Avatar 1,Comedy,2005,Francis Ford Coppola,8.7
+Parasite 2,Drama,2018,Quentin Tarantino,3.3
+The Matrix 5,Thriller,1988,Christopher Nolan,7.1
+Avatar 1,Comedy,1995,Steven Spielberg,2.2
+Titanic 1,Action,2010,Ridley Scott,6.5
+Avengers 4,Sci-Fi,2022,Francis Ford Coppola,9.7
+The Godfather 4,Fantasy,1982,Christopher Nolan,2.0
+Joker 1,Comedy,2007,James Cameron,2.5
+Avengers 4,Thriller,1982,Quentin Tarantino,3.3
+Titanic 1,Fantasy,2014,Christopher Nolan,8.1
+Avatar 3,Action,2004,Christopher Nolan,2.1
+The Matrix 5,Horror,2009,Ridley Scott,1.4
+Interstellar 1,Action,1999,James Cameron,3.7
+Avengers 4,Fantasy,2015,Ridley Scott,9.4
+Titanic 3,Horror,2016,Ridley Scott,2.9
+Avatar 2,Horror,1991,James Cameron,1.9
+Inception 3,Romance,2003,Christopher Nolan,3.0
+The Godfather 2,Romance,2020,Christopher Nolan,1.9
+Titanic 5,Drama,1981,Bong Joon-ho,4.6
+Parasite 3,Sci-Fi,1993,Quentin Tarantino,4.6
+The Godfather 2,Action,2001,James Cameron,9.6
+Avengers 1,Romance,1987,Ridley Scott,2.6
+Gladiator 5,Sci-Fi,2001,Bong Joon-ho,5.7
+Joker 2,Horror,2023,James Cameron,6.3
+Interstellar 5,Action,2009,Quentin Tarantino,1.7
+Parasite 5,Horror,2015,Christopher Nolan,1.9
+Inception 2,Drama,1995,Steven Spielberg,8.8
+Inception 3,Comedy,1989,Martin Scorsese,6.7
+Inception 2,Fantasy,2004,Bong Joon-ho,5.1
+The Godfather 1,Horror,2005,Francis Ford Coppola,4.2
+Parasite 3,Fantasy,2012,James Cameron,2.4
+Avatar 4,Sci-Fi,2003,Steven Spielberg,4.4
+Gladiator 5,Drama,1992,Quentin Tarantino,2.8
+Titanic 2,Comedy,2022,Quentin Tarantino,6.6
+The Godfather 5,Crime,1997,Bong Joon-ho,2.6
+Titanic 3,Action,2000,Quentin Tarantino,7.5
+Inception 1,Fantasy,2010,Steven Spielberg,5.0
+Titanic 3,Fantasy,2019,Ridley Scott,4.6
+Avatar 4,Adventure,1986,Bong Joon-ho,4.5
+Gladiator 3,Crime,2021,Bong Joon-ho,5.4
+Interstellar 2,Action,1994,James Cameron,7.9
+Titanic 2,Sci-Fi,2004,Bong Joon-ho,9.9
+The Godfather 4,Crime,2022,Christopher Nolan,4.9
+Gladiator 4,Horror,1981,Christopher Nolan,1.7
+Parasite 2,Thriller,2012,Christopher Nolan,3.8
+Inception 1,Sci-Fi,2008,Ridley Scott,8.5
+Gladiator 1,Horror,1995,Quentin Tarantino,2.4
+Titanic 1,Romance,1993,Quentin Tarantino,1.5
+The Matrix 1,Romance,2021,Ridley Scott,2.6
+The Matrix 1,Sci-Fi,2020,Ridley Scott,7.2
+Parasite 3,Drama,1987,Christopher Nolan,6.1
+The Matrix 5,Horror,2008,Bong Joon-ho,8.7
+Parasite 3,Romance,1990,Francis Ford Coppola,1.4
+Parasite 1,Adventure,1997,Ridley Scott,8.4
+The Godfather 5,Action,2015,Francis Ford Coppola,5.8
+Gladiator 2,Adventure,1990,Bong Joon-ho,6.6
+Inception 2,Comedy,1990,Francis Ford Coppola,5.1
+Joker 2,Romance,2011,Bong Joon-ho,1.7
+Avengers 3,Adventure,1986,Christopher Nolan,6.5
+Joker 1,Romance,2009,Steven Spielberg,8.0
+Parasite 3,Drama,1980,Martin Scorsese,4.2
+Titanic 4,Drama,1990,Steven Spielberg,9.1
+Avengers 3,Horror,2018,Bong Joon-ho,3.0
+Inception 2,Drama,2000,James Cameron,1.7
+Avengers 2,Adventure,1987,Francis Ford Coppola,6.0
+The Matrix 2,Sci-Fi,1999,Christopher Nolan,4.4
+The Godfather 4,Adventure,2000,Christopher Nolan,2.3
+Avengers 2,Horror,2013,Francis Ford Coppola,9.2
+The Godfather 3,Romance,1989,James Cameron,4.6
+Avengers 4,Fantasy,1998,Quentin Tarantino,1.7
+The Godfather 5,Comedy,2021,Bong Joon-ho,7.0
+Parasite 5,Drama,1980,Quentin Tarantino,6.2
+Inception 5,Crime,2001,Quentin Tarantino,3.1
+Avengers 3,Drama,1997,Francis Ford Coppola,8.7
+The Matrix 2,Thriller,2003,Steven Spielberg,3.7
+The Godfather 1,Horror,2018,Quentin Tarantino,8.1
+Titanic 5,Fantasy,2021,Francis Ford Coppola,2.3
+Gladiator 5,Crime,1984,James Cameron,1.5
+Parasite 5,Sci-Fi,2007,Steven Spielberg,5.9
+Joker 2,Thriller,2016,Francis Ford Coppola,3.8
+Interstellar 4,Comedy,2022,Martin Scorsese,7.1
+Joker 2,Action,1982,Quentin Tarantino,1.5
+The Godfather 4,Fantasy,1997,Steven Spielberg,1.2
+Titanic 4,Comedy,2010,Steven Spielberg,9.9
+Avatar 2,Adventure,2009,Steven Spielberg,9.2
+Interstellar 3,Fantasy,2021,Francis Ford Coppola,9.1
+Parasite 1,Fantasy,1982,Francis Ford Coppola,7.4
+Parasite 1,Drama,2010,Quentin Tarantino,8.3
+Inception 4,Romance,1995,Ridley Scott,8.1
+Avengers 4,Comedy,1995,Steven Spielberg,2.9
+Titanic 1,Thriller,1991,Martin Scorsese,3.3
+Avengers 5,Sci-Fi,1981,James Cameron,7.5
+Interstellar 3,Romance,2023,Bong Joon-ho,5.2
+Parasite 4,Sci-Fi,2005,Martin Scorsese,9.0
+Parasite 2,Drama,2014,Ridley Scott,1.9
+Avengers 4,Action,2010,Ridley Scott,4.6
+Gladiator 5,Crime,2006,Martin Scorsese,4.4
+The Matrix 4,Comedy,1984,Ridley Scott,2.9
+Parasite 3,Comedy,2010,Christopher Nolan,4.5
+The Matrix 5,Adventure,2017,James Cameron,9.3
+The Matrix 4,Crime,1994,Christopher Nolan,2.6
+The Matrix 3,Comedy,1981,Martin Scorsese,7.8
+Avatar 4,Drama,2019,Steven Spielberg,7.5
+Parasite 2,Crime,2006,Quentin Tarantino,9.5
+Gladiator 3,Adventure,2015,Martin Scorsese,6.9
+The Godfather 4,Crime,2006,Bong Joon-ho,4.1
+The Matrix 3,Horror,1987,James Cameron,8.7
+The Godfather 2,Action,2005,James Cameron,2.6
+Avatar 3,Fantasy,2007,Ridley Scott,5.4
+Titanic 3,Comedy,2016,Steven Spielberg,3.7
+Gladiator 1,Drama,2014,James Cameron,6.3
+Parasite 2,Adventure,1991,Steven Spielberg,7.5
+Inception 4,Fantasy,2003,James Cameron,4.7
+Inception 3,Action,2021,Ridley Scott,9.7
+Avengers 3,Drama,1990,Bong Joon-ho,7.1
+Parasite 5,Comedy,1984,Christopher Nolan,1.1
+Avatar 4,Horror,2015,Francis Ford Coppola,6.2
+Joker 3,Thriller,1983,Bong Joon-ho,2.3
+Joker 5,Comedy,2017,Ridley Scott,9.3
+Titanic 1,Comedy,1998,Ridley Scott,9.3
+Inception 4,Adventure,2010,Quentin Tarantino,2.9
+Parasite 1,Action,2019,Francis Ford Coppola,7.3
+Avengers 2,Sci-Fi,1991,Quentin Tarantino,4.1
