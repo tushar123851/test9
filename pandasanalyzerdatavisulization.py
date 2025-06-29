@@ -692,7 +692,7 @@ while True:
         case "7":
             sales.visulize_data()
        
-        case "9":
+        case "8":
             print("="*40)
             print("Exit.Thank You for using pandas Analyzer & Visulization")
             print("="*40)
