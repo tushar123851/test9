@@ -245,27 +245,66 @@ class SalesDataAnalyzer:
         def combine_data(self):
             try:
                 print("\nCombine Dataframe:\n")
-                m = pd.read_csv("movies.csv")
-                m.columns = ['col1', 'col2', 'col3', 'col4', 'col5']
-                self.data.columns = ['col1', 'col2', 'col3', 'col4', 'col5']
-                combinedata = pd.concat([self.data,m])
+        
+                # Load movie data
+                movie_df = pd.read_csv("movies.csv")
+
+               # Load sales data (already loaded in self.data)
+                if self.data is None:
+                    print("Sales data is not loaded yet.")
+                    return None
+
+                # Define correct column names
+                movie_cols = ['title', 'genre', 'year', 'director', 'rating']
+                sales_cols = ['date', 'product', 'sales', 'region', 'profit']
+
+                # Check column count before renaming
+                if self.data.shape[1] != len(sales_cols):
+                    print(f"Sales data has {self.data.shape[1]} columns, expected 5. Cannot rename.")
+                    return None
+
+                if movie_df.shape[1] != len(movie_cols):
+                    print(f"Movie data has {movie_df.shape[1]} columns, expected 5. Cannot rename.")
+                    return None
+
+                # Rename columns
+                self.data.columns = sales_cols
+                movie_df.columns = movie_cols
+
+                 # Combine both datasets
+                combinedata = pd.concat([self.data, movie_df], ignore_index=True)
                 print(combinedata)
                 print("=" * 30)
 
                 return combinedata
+
             except Exception as e:
-                print(f"An error occurred: {e}")
-                return None
+               print(f"An error occurred: {e}")
+               return None
             
 
         def spilt_data(self,combinedata):
             try:
+               # Load movie data again just to get the correct number of movie rows
                 movie_df = pd.read_csv("movies.csv")
                 movie_len = len(movie_df)
 
-                sales_split = combinedata.iloc[:-movie_len].reset_index(drop=True)
-                movie_split = combinedata.iloc[-movie_len:].reset_index(drop=True)
+              # Split the combined data based on movie row count
+                sales_split = combinedata.iloc[:-movie_len].copy().reset_index(drop=True)
+                movie_split = combinedata.iloc[-movie_len:].copy().reset_index(drop=True)
 
+              # Sanity check: try to set columns ONLY IF column count is 5
+                if sales_split.shape[1] == 5:
+                    sales_split.columns = ['date', 'product', 'sales', 'region', 'profit']
+                else:
+                    print("Warning: Sales split does not have 5 columns. Skipping column renaming for sales data.")
+
+                if movie_split.shape[1] == 5:
+                    movie_split.columns = ['title', 'genre', 'year', 'director', 'rating']
+                else:
+                    print("Warning: Movie split does not have 5 columns. Skipping column renaming for movie data.")
+
+                # Show results
                 print("\nSales DataFrame:\n", sales_split)
                 print("\nMovie DataFrame:\n", movie_split)
 
@@ -273,7 +312,7 @@ class SalesDataAnalyzer:
 
             except Exception as e:
                 print(f"An error occurred: {e}")
-   
+                
         def mathematical_operation(self):
             while True:
                print("Select an option:")
