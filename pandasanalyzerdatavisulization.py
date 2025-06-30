@@ -246,10 +246,8 @@ class SalesDataAnalyzer:
             try:
                 print("\nCombine Dataframe:\n")
         
-                # Load movie data
                 movie_df = pd.read_csv("movies.csv")
 
-               # Load sales data (already loaded in self.data)
                 if self.data is None:
                     print("Sales data is not loaded yet.")
                     return None
@@ -285,7 +283,6 @@ class SalesDataAnalyzer:
 
         def spilt_data(self,combinedata):
             try:
-               # Load movie data again just to get the correct number of movie rows
                 movie_df = pd.read_csv("movies.csv")
                 movie_len = len(movie_df)
 
@@ -312,7 +309,7 @@ class SalesDataAnalyzer:
 
             except Exception as e:
                 print(f"An error occurred: {e}")
-                
+
         def mathematical_operation(self):
             while True:
                print("Select an option:")
